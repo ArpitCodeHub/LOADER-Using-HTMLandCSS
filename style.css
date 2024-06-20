@@ -1,5 +1,6 @@
 #loader{border-radius: 50%;
-    border-top:7px solid black;
+    border:10px solid yellow;
+    border-top:10px solid black;
     background-color: aqua;
     height: 100px;
     width:100px;
@@ -23,8 +24,8 @@ h1{font-family: fantasy;
     text-align: 
     center; color:aqua;
     background-color: black; 
-    font-size: 40px;}
-
+    font-size: 40px;
+   
 p{position: absolute; 
-    top: 325px; 
-    left:710px;}
+    top: 330px;
+    left:720px;}
